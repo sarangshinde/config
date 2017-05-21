@@ -1,0 +1,6 @@
+server.port=9090
+spring.cloud.stream.bindings.import="reservations"
+message="hello server"
+spring.application.name="reservation-service"
+
+
